@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Cobult Stocks",
+  "description": "A modern, offline-first Inventory Management \u0026 Point of Sale (POS) System designed for retail, alcohol, and grocery stores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
